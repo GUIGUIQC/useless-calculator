@@ -9,14 +9,16 @@ A calculator that works only 33.33% of the time.
 As a normal calculator, but every time you push a number, the whole board changes, just to make life harder. Oh and also, the result you get might not be correct.
 
 ## Give it a try!
-If you have an Android device, you can download the APK [right here](https://cntr.click/XW3y9G0). 
 If you have an iPhone, you just can't lol.
 You can also clone this repo like this:
 
 ```
 # Clone repository
-$ git clone https://github.com/samuelmarina/useles-calculator.git
-$ cd useless-calculator
+git clone https://github.com/samuelmarina/useles-calculator.git
+ cd useless-calculator
+forget about that, for example, if you use termux(which is on android), its gonna ask for (i assume is the original owner's email and password)
+so just copy the link (mine, and not the one written above here) that is shown on your search bar, and at the start of the command line add:  git clone
+
 ```
 
 And then just run it
@@ -36,3 +38,5 @@ $ expo start
 
 # Acknowledgments
 This project is made to be part of my series called "Useless Apps", not meant to be serious, but just useless. They're fun, but probably they don't work too well.
+
+edit by c0dex
